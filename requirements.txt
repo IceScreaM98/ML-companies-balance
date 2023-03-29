@@ -1,0 +1,12 @@
+geopandas
+gradio
+imblearn
+matplotlib
+numpy
+pandas
+seaborn
+shap
+sklearn
+tpot
+xlrd
+xlsxwriter
