@@ -37,7 +37,7 @@ The core of the data pipeline process in charge of different topics like:
 - etc.
 
 Each notebook generates a dataset with a certain number of features and records that depends on the type of requested
-analysis. For example, certain dataset will contain only a subset of raw features, etc.
+analysis. For example, certain datasets will contain only a subset of raw features, etc.
 
 In this section under the folder "Limiti01012018" there is a point map of the Italy country in order to generate the
 geographical heatmap of the dataset.
@@ -66,4 +66,6 @@ Plus it is possible to export each obtained model score into a simple file in or
 show the difference of each configuration.
 
 N.B. this repository is used only as a scientific research, the code could be written in a more sophisticated way, but 
-for the sake of simplicity and testing a loto of different scenarios the code is stored as separated notebooks.
+for the sake of simplicity and testing the code is kept as a sort of collection of different use-case scenarios.
+Furthermore there will be some parts written in Italian, it is recommended to use this repository as a sort of 
+"laboratory" which tests a lot of different ideas and combination of datasets and models.
